@@ -1,0 +1,28 @@
+name: FlyBug
+favicon: null
+layout_spectrum: 0.4045843987260014
+typography_spectrum: 0.5759110890794545
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5381202267017215
+  lightness: 0.39812322915531695
+  saturation: 0.19873987208120525
+  rhythmicContrast: 0.21988864615559578
+purpose: []
